@@ -9,7 +9,7 @@ SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile,update-interval=1
 TrafficStatistics = script-name=TrafficStatistics,update-interval=1
 
 #清理缓存
-flushDNS = script-name=flushDNS,update-interval=-1
+flushDNS = script-name=flushDNS,update-interval=600
 
 [Script]
 #附带重载配置,Surge Pro标题,可显示启动时间,点击刷新为重载配置
